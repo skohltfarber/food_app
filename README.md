@@ -20,16 +20,16 @@ Progress
 Things that I learned.
     1) In the Theme.of(Context).textTheme, we have a few deprecated members. 
     	Here is a list:
-    	a) display4 should be replaced with this.headline1
-	b) display3 should be replaced with this.headline2
-	c) display2 should be replaced with this.headline3
-	e) display1 should be replaced with this.headline4
-	f) headline should be replaced with this.headline5
-	g) title should be replaced with this.headline6
-	h) subhead should be replaced with this.subtitle1
-	i) subtitle should be replaced with this.subtitle2
-	j) body2 should be replaced with this.bodyText1
-	k) body1 should be replaced with this.bodyText2
+    	display4 should be replaced with this.headline1
+	display3 should be replaced with this.headline2
+	display2 should be replaced with this.headline3
+	display1 should be replaced with this.headline4
+	headline should be replaced with this.headline5
+	title should be replaced with this.headline6
+	subhead should be replaced with this.subtitle1
+	subtitle should be replaced with this.subtitle2
+	body2 should be replaced with this.bodyText1
+	body1 should be replaced with this.bodyText2
 	
      2) We have a cool widget SingleChildScrollView that give you out of the box way to create a scrollable menu.
 
