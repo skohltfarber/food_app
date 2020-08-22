@@ -7,17 +7,8 @@ https://www.youtube.com/watch?v=F0ujC60wHwc&t=1378s
 
 YouTube Channel: The Flutter Way
 
-Progress
-8/13/20 0:46 - Setup and creating the application Ended with making a constant file.
-8/14/20 6:18 - Started working on the body of the program.
-8/16/20 15:50 - We will continue with the body of the program we have the top half finished. 
-8/17/20 19:26 - We are ready to build the details screen. We have finished the home page. 
-8/18/20 26:05 - We have built half of the details screen. We should finish the detail screen in the future.  PricerCliper is throwing an error. We will need to fix that next. 
-8/20/20 31:36 - We are almost done.
-8/21/20 Done. I could troubleshoot an error message if I want to Incorrect use of ParentDataWidget. If you get this error message, remove the expanded widget. 
-
-
 Things that I learned.
+
     1) In the Theme.of(Context).textTheme, we have a few deprecated members. 
     	Here is a list:
     	display4 should be replaced with this.headline1
